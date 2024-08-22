@@ -54,7 +54,7 @@
   margin-bottom: 179px;
 }
 
- .overlay {
+.overlay {
   position: absolute;
   background-color: rgb(0 0 0 / 0.6);
   inset: 0;
@@ -131,7 +131,6 @@
 }
 
 .lots {
-  min-height: 692px;
   margin: 0 24px 146px;
 }
 
@@ -216,7 +215,6 @@
   display: grid;
   grid-template-columns: 334px 1fr;
   padding: 0 24px 0;
-  min-height: 595px;
   margin-bottom: 180px;
 }
 
